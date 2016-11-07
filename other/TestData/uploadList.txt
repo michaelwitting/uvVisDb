@@ -1,0 +1,5 @@
+file	name	smiles	solvent	instrument
+UV1.xy	uv1	uv1	gradient	Waters Acquity PDA
+UV2.xy	uv2	uv2	gradient	Waters Acquity PDA
+UV3.xy	uv3	uv3	gradient	Waters Acquity PDA
+UV4.xy	uv4	uv4	gradient	Waters Acquity PDA
